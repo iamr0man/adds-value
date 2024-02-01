@@ -10,14 +10,14 @@
         :src="images[0]"
         :alt="item.title"
         width="183"
-        height="173"
+        height="159"
         class="min-w-[183px] rounded-tl-lg"
       />
       <img
         :src="images[1]"
         :alt="item.title"
         width="183.5"
-        height="160"
+        height="173"
         class="min-w-[183.5px] rounded-bl-lg"
       />
     </div>
