@@ -39,7 +39,7 @@
 <script setup>
 defineProps({
   images: {
-    type: Image,
+    type: Array,
     required: true,
   },
   item: {
