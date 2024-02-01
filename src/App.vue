@@ -1,5 +1,5 @@
 <template>
-  <main class="bg-offWhite">
+  <main class="bg-offWhite py-[108px]">
     <div class="w-[1375px] mx-auto">
       <h1
         class="mb-80 font-poppins text-56 text-center font-bold text-darkBlue tracking-[-0.56px] drop-shadow-xs"
